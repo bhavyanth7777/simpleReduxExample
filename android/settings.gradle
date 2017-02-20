@@ -1,0 +1,3 @@
+rootProject.name = 'simpleReduxExample'
+
+include ':app'
